@@ -1,0 +1,13 @@
+/* Write your code here. */
+.emoji-item {
+  list-style-type: none;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+}
+
+.emoji-button {
+  background-color: transparent;
+  outline: none;
+  border: none;
+}
