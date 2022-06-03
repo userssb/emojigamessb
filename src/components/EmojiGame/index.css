@@ -25,3 +25,10 @@
   padding: 0px;
   max-width: 1000px;
 }
+.desc {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: purpLe;
+}
